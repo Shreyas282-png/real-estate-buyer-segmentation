@@ -1,0 +1,501 @@
+client_id,client_type,gender,country,region,date_of_birth,acquisition_purpose,loan_applied,referral_channel,satisfaction_score
+C0001,Individual,Female,India,Asia,2000-08-11,Personal Use,Yes,Referral,4
+C0002,Individual,Female,Saudi Arabia,Middle East,1980-03-05,Investment,No,Walk-in,3
+C0003,Individual,Male,India,Asia,2002-07-17,Personal Use,Yes,Social Media,3
+C0004,Corporate,Female,Qatar,Middle East,1979-02-19,Investment,No,Property Portal,4
+C0005,Individual,Male,Singapore,Asia,1987-12-08,Investment,No,Broker,3
+C0006,Individual,Male,USA,North America,1964-11-24,Investment,No,Property Portal,5
+C0007,Individual,Male,India,Asia,1995-06-16,Personal Use,No,Website,3
+C0008,Corporate,Male,Singapore,Asia,1970-08-12,Investment,No,Referral,5
+C0009,Individual,Female,UAE,Middle East,1974-08-05,Investment,No,Property Portal,5
+C0010,Individual,Female,Singapore,Asia,1966-12-20,Investment,No,Walk-in,5
+C0011,Individual,Male,UAE,Middle East,1979-10-07,Investment,No,Broker,5
+C0012,Corporate,Female,Singapore,Asia,1970-01-11,Investment,No,Walk-in,4
+C0013,Corporate,Male,USA,North America,1976-05-28,Investment,No,Website,3
+C0014,Individual,Male,USA,North America,1989-12-13,Personal Use,Yes,Referral,2
+C0015,Individual,Female,Qatar,Middle East,1984-12-15,Investment,No,Referral,4
+C0016,Individual,Male,Qatar,Middle East,1985-07-06,Investment,No,Broker,3
+C0017,Individual,Male,UAE,Middle East,1985-07-31,Investment,No,Referral,3
+C0018,Corporate,Male,India,Asia,1984-07-16,Investment,No,Broker,4
+C0019,Individual,Male,India,Asia,1996-11-16,Personal Use,Yes,Referral,2
+C0020,Individual,Male,Germany,Europe,1994-06-26,Investment,No,Referral,4
+C0021,Individual,Female,Singapore,Asia,1975-05-20,Investment,No,Referral,3
+C0022,Individual,Female,UAE,Middle East,1965-05-03,Investment,No,Referral,5
+C0023,Corporate,Female,India,Asia,1985-09-05,Investment,No,Broker,4
+C0024,Corporate,Male,India,Asia,1975-08-24,Investment,Yes,Property Portal,4
+C0025,Individual,Female,USA,North America,1961-12-12,Investment,No,Website,5
+C0026,Individual,Female,UAE,Middle East,1954-06-26,Investment,No,Broker,5
+C0027,Individual,Male,Singapore,Asia,1968-10-04,Investment,No,Website,5
+C0028,Corporate,Male,India,Asia,1973-02-11,Investment,No,Website,4
+C0029,Individual,Male,India,Asia,1995-08-28,Personal Use,Yes,Website,3
+C0030,Corporate,Male,UK,Europe,1976-08-09,Investment,No,Referral,4
+C0031,Individual,Male,Singapore,Asia,1964-04-08,Investment,No,Property Portal,5
+C0032,Corporate,Female,India,Asia,1977-12-28,Investment,Yes,Referral,4
+C0033,Individual,Female,Qatar,Middle East,1980-01-30,Investment,No,Property Portal,5
+C0034,Individual,Male,Saudi Arabia,Middle East,1996-08-01,Personal Use,No,Social Media,4
+C0035,Individual,Female,USA,North America,1995-02-02,Personal Use,No,Website,3
+C0036,Individual,Male,India,Asia,2000-05-07,Personal Use,Yes,Property Portal,3
+C0037,Individual,Male,Australia,Oceania,1992-07-21,Personal Use,Yes,Referral,4
+C0038,Individual,Male,Canada,North America,1987-01-23,Investment,No,Property Portal,3
+C0039,Individual,Male,Australia,Oceania,1986-07-16,Investment,No,Referral,3
+C0040,Individual,Male,Australia,Oceania,1982-09-27,Investment,No,Property Portal,3
+C0041,Corporate,Male,Australia,Oceania,1961-08-26,Investment,No,Social Media,5
+C0042,Individual,Male,UK,Europe,1988-09-06,Personal Use,Yes,Broker,3
+C0043,Corporate,Female,UAE,Middle East,1983-04-16,Investment,No,Property Portal,4
+C0044,Individual,Male,India,Asia,1997-10-15,Personal Use,Yes,Website,3
+C0045,Individual,Male,Australia,Oceania,1984-12-20,Investment,No,Broker,4
+C0046,Individual,Female,Qatar,Middle East,1969-10-12,Investment,Yes,Website,3
+C0047,Individual,Male,UAE,Middle East,1975-08-08,Investment,No,Property Portal,5
+C0048,Individual,Female,Singapore,Asia,1967-07-22,Investment,No,Broker,5
+C0049,Individual,Male,India,Asia,1964-01-06,Investment,No,Broker,5
+C0050,Individual,Male,USA,North America,1979-10-16,Investment,No,Website,4
+C0051,Individual,Male,India,Asia,1996-05-05,Personal Use,Yes,Website,4
+C0052,Individual,Male,India,Asia,2002-10-04,Personal Use,Yes,Property Portal,3
+C0053,Individual,Female,India,Asia,1989-02-03,Personal Use,Yes,Referral,4
+C0054,Individual,Male,India,Asia,1997-03-31,Personal Use,Yes,Property Portal,4
+C0055,Individual,Male,Singapore,Asia,1969-12-22,Investment,No,Social Media,5
+C0056,Corporate,Female,Qatar,Middle East,1972-07-13,Investment,No,Website,5
+C0057,Individual,Female,UK,Europe,1997-05-01,Investment,Yes,Broker,3
+C0058,Individual,Male,UK,Europe,1959-04-11,Investment,No,Broker,5
+C0059,Corporate,Male,Qatar,Middle East,1969-01-17,Investment,Yes,Broker,5
+C0060,Corporate,Male,Saudi Arabia,Middle East,1978-06-08,Investment,No,Social Media,3
+C0061,Corporate,Male,Australia,Oceania,1970-03-10,Investment,Yes,Broker,4
+C0062,Individual,Male,Singapore,Asia,1992-10-22,Personal Use,Yes,Referral,4
+C0063,Individual,Female,UAE,Middle East,1994-04-26,Personal Use,Yes,Referral,3
+C0064,Individual,Female,UAE,Middle East,1969-01-23,Investment,No,Broker,5
+C0065,Individual,Male,India,Asia,2001-11-28,Personal Use,Yes,Referral,3
+C0066,Individual,Female,India,Asia,1992-05-15,Personal Use,Yes,Social Media,3
+C0067,Individual,Male,UAE,Middle East,1992-11-06,Investment,Yes,Website,3
+C0068,Individual,Female,India,Asia,1988-07-18,Personal Use,No,Social Media,3
+C0069,Individual,Female,USA,North America,1984-06-29,Investment,No,Website,5
+C0070,Individual,Female,Qatar,Middle East,1975-08-03,Investment,No,Referral,5
+C0071,Individual,Male,UAE,Middle East,1978-04-29,Investment,No,Broker,5
+C0072,Individual,Female,Germany,Europe,1987-08-03,Investment,No,Website,3
+C0073,Individual,Female,Saudi Arabia,Middle East,1998-04-29,Personal Use,Yes,Property Portal,2
+C0074,Individual,Male,Germany,Europe,1976-05-07,Investment,No,Broker,4
+C0075,Individual,Female,Singapore,Asia,1960-05-14,Investment,No,Website,5
+C0076,Individual,Female,India,Asia,1990-08-26,Personal Use,Yes,Property Portal,3
+C0077,Individual,Male,UK,Europe,1980-06-22,Investment,No,Walk-in,5
+C0078,Individual,Female,UK,Europe,1984-01-05,Investment,No,Social Media,4
+C0079,Individual,Male,Australia,Oceania,1988-04-09,Investment,Yes,Referral,4
+C0080,Individual,Male,USA,North America,1971-02-04,Investment,No,Broker,3
+C0081,Individual,Male,USA,North America,1972-06-15,Investment,No,Website,5
+C0082,Individual,Female,Qatar,Middle East,1988-09-20,Investment,Yes,Broker,3
+C0083,Corporate,Female,India,Asia,1975-08-14,Investment,Yes,Referral,5
+C0084,Individual,Male,Singapore,Asia,1980-04-14,Investment,No,Referral,4
+C0085,Individual,Male,India,Asia,2002-09-04,Personal Use,Yes,Social Media,2
+C0086,Individual,Male,Germany,Europe,1981-09-24,Investment,Yes,Property Portal,4
+C0087,Corporate,Female,Singapore,Asia,1973-03-01,Investment,No,Broker,4
+C0088,Corporate,Male,Qatar,Middle East,1966-07-03,Investment,No,Broker,4
+C0089,Individual,Male,Singapore,Asia,1991-12-11,Personal Use,Yes,Property Portal,2
+C0090,Individual,Female,India,Asia,1996-08-28,Personal Use,No,Walk-in,3
+C0091,Individual,Male,Saudi Arabia,Middle East,1959-12-24,Investment,No,Property Portal,5
+C0092,Individual,Male,India,Asia,1996-09-18,Personal Use,Yes,Social Media,3
+C0093,Individual,Female,India,Asia,1992-07-16,Personal Use,Yes,Social Media,4
+C0094,Individual,Male,India,Asia,1992-02-26,Personal Use,Yes,Property Portal,3
+C0095,Corporate,Female,USA,North America,1972-05-24,Investment,No,Walk-in,4
+C0096,Individual,Female,Qatar,Middle East,1990-02-25,Personal Use,No,Social Media,3
+C0097,Corporate,Female,India,Asia,1976-10-28,Investment,Yes,Broker,4
+C0098,Individual,Male,Australia,Oceania,1995-12-27,Personal Use,Yes,Property Portal,3
+C0099,Individual,Male,UK,Europe,1965-03-14,Investment,No,Referral,5
+C0100,Individual,Female,Singapore,Asia,1956-07-24,Investment,No,Website,5
+C0101,Individual,Male,India,Asia,1994-10-05,Personal Use,Yes,Property Portal,4
+C0102,Corporate,Male,India,Asia,1978-02-18,Investment,Yes,Property Portal,4
+C0103,Individual,Female,India,Asia,1990-05-13,Personal Use,Yes,Property Portal,3
+C0104,Corporate,Male,Singapore,Asia,1978-09-02,Investment,Yes,Walk-in,5
+C0105,Individual,Male,UAE,Middle East,1993-02-28,Personal Use,Yes,Referral,3
+C0106,Corporate,Female,Saudi Arabia,Middle East,1976-10-14,Investment,No,Website,5
+C0107,Individual,Male,Canada,North America,1998-08-13,Personal Use,Yes,Social Media,3
+C0108,Individual,Male,India,Asia,1997-05-10,Personal Use,Yes,Referral,4
+C0109,Individual,Male,UK,Europe,1996-07-14,Personal Use,Yes,Broker,3
+C0110,Individual,Female,USA,North America,1978-08-17,Investment,No,Broker,3
+C0111,Individual,Male,Canada,North America,1982-01-18,Investment,Yes,Property Portal,4
+C0112,Individual,Female,India,Asia,2001-12-07,Personal Use,Yes,Broker,3
+C0113,Individual,Male,UAE,Middle East,2001-09-17,Personal Use,Yes,Property Portal,3
+C0114,Individual,Female,India,Asia,1990-03-29,Personal Use,Yes,Property Portal,3
+C0115,Individual,Male,Qatar,Middle East,1995-03-03,Personal Use,Yes,Property Portal,4
+C0116,Individual,Female,Singapore,Asia,1976-11-08,Investment,No,Website,3
+C0117,Individual,Female,Saudi Arabia,Middle East,1959-03-23,Investment,No,Walk-in,5
+C0118,Individual,Male,USA,North America,1967-06-08,Investment,No,Property Portal,5
+C0119,Individual,Female,Canada,North America,1995-10-20,Personal Use,Yes,Property Portal,2
+C0120,Individual,Male,Saudi Arabia,Middle East,1974-07-04,Investment,No,Broker,5
+C0121,Corporate,Female,UK,Europe,1971-02-08,Investment,No,Broker,4
+C0122,Individual,Female,UAE,Middle East,1978-06-13,Investment,No,Referral,5
+C0123,Individual,Female,USA,North America,1972-01-22,Investment,No,Referral,5
+C0124,Individual,Female,Canada,North America,1983-03-26,Investment,No,Walk-in,3
+C0125,Individual,Male,Singapore,Asia,1994-12-14,Investment,No,Broker,4
+C0126,Individual,Female,Saudi Arabia,Middle East,1966-03-14,Investment,No,Referral,5
+C0127,Individual,Female,Australia,Oceania,1984-03-11,Investment,No,Broker,3
+C0128,Individual,Female,USA,North America,1977-07-11,Investment,No,Social Media,4
+C0129,Individual,Male,Saudi Arabia,Middle East,1999-08-14,Personal Use,Yes,Broker,3
+C0130,Individual,Female,UAE,Middle East,1964-11-05,Investment,Yes,Broker,4
+C0131,Individual,Female,Canada,North America,1983-07-25,Investment,No,Property Portal,3
+C0132,Individual,Male,UAE,Middle East,1959-03-20,Investment,No,Website,5
+C0133,Individual,Female,Australia,Oceania,1983-06-12,Investment,No,Property Portal,4
+C0134,Corporate,Female,Qatar,Middle East,1972-01-16,Investment,No,Referral,5
+C0135,Corporate,Male,UK,Europe,1976-01-08,Investment,Yes,Broker,4
+C0136,Individual,Female,Qatar,Middle East,1998-09-28,Personal Use,No,Referral,4
+C0137,Individual,Female,USA,North America,1992-01-12,Investment,No,Broker,4
+C0138,Corporate,Male,UK,Europe,1972-09-29,Investment,Yes,Property Portal,4
+C0139,Individual,Male,Saudi Arabia,Middle East,1978-05-14,Investment,No,Property Portal,3
+C0140,Individual,Male,India,Asia,1995-02-04,Personal Use,Yes,Website,3
+C0141,Corporate,Male,UAE,Middle East,1978-07-05,Investment,No,Broker,4
+C0142,Individual,Male,UAE,Middle East,1971-08-29,Investment,No,Website,5
+C0143,Individual,Female,Singapore,Asia,1973-02-05,Investment,No,Walk-in,5
+C0144,Individual,Female,India,Asia,1992-11-08,Personal Use,Yes,Broker,4
+C0145,Individual,Female,Saudi Arabia,Middle East,1983-06-12,Investment,No,Property Portal,4
+C0146,Individual,Male,Qatar,Middle East,1973-07-21,Investment,No,Walk-in,5
+C0147,Individual,Male,India,Asia,1987-02-23,Personal Use,Yes,Property Portal,4
+C0148,Individual,Male,India,Asia,1998-12-15,Personal Use,Yes,Website,4
+C0149,Corporate,Male,UAE,Middle East,1977-03-04,Investment,No,Social Media,5
+C0150,Individual,Male,Saudi Arabia,Middle East,1988-09-18,Investment,Yes,Property Portal,3
+C0151,Individual,Female,Singapore,Asia,1962-08-24,Investment,No,Broker,5
+C0152,Individual,Male,USA,North America,1976-04-20,Investment,No,Website,5
+C0153,Individual,Male,Singapore,Asia,1963-05-28,Investment,No,Property Portal,5
+C0154,Individual,Male,UK,Europe,1962-08-11,Investment,No,Property Portal,5
+C0155,Individual,Male,Canada,North America,1998-11-24,Personal Use,Yes,Website,3
+C0156,Individual,Female,India,Asia,1994-02-18,Personal Use,Yes,Website,3
+C0157,Individual,Female,India,Asia,1996-01-23,Personal Use,Yes,Property Portal,3
+C0158,Individual,Female,Qatar,Middle East,1971-07-07,Investment,No,Website,5
+C0159,Individual,Male,Canada,North America,1968-11-19,Investment,No,Property Portal,3
+C0160,Individual,Female,Australia,Oceania,1988-04-15,Investment,No,Website,4
+C0161,Individual,Female,UAE,Middle East,1976-12-18,Investment,No,Property Portal,5
+C0162,Individual,Female,Qatar,Middle East,1965-03-20,Investment,No,Website,5
+C0163,Individual,Male,Qatar,Middle East,2000-07-29,Personal Use,Yes,Property Portal,3
+C0164,Individual,Female,Canada,North America,1971-08-24,Investment,No,Social Media,4
+C0165,Individual,Female,USA,North America,1984-11-27,Investment,No,Broker,4
+C0166,Individual,Male,UAE,Middle East,2000-02-24,Personal Use,Yes,Broker,3
+C0167,Corporate,Female,Qatar,Middle East,1970-02-12,Investment,No,Social Media,3
+C0168,Individual,Female,India,Asia,2002-04-16,Personal Use,Yes,Property Portal,3
+C0169,Individual,Female,India,Asia,1997-06-21,Personal Use,No,Referral,3
+C0170,Individual,Male,Qatar,Middle East,1972-05-27,Investment,No,Website,5
+C0171,Individual,Male,USA,North America,2000-03-09,Personal Use,Yes,Broker,4
+C0172,Individual,Female,UAE,Middle East,1971-11-04,Investment,No,Walk-in,5
+C0173,Individual,Female,Singapore,Asia,1971-01-09,Investment,Yes,Broker,4
+C0174,Corporate,Male,Singapore,Asia,1973-07-11,Investment,No,Social Media,5
+C0175,Corporate,Male,India,Asia,1979-09-17,Investment,Yes,Broker,5
+C0176,Individual,Male,India,Asia,1997-03-03,Personal Use,Yes,Referral,2
+C0177,Individual,Male,India,Asia,1976-01-27,Investment,No,Website,5
+C0178,Individual,Male,UAE,Middle East,1966-12-24,Investment,No,Walk-in,5
+C0179,Individual,Male,India,Asia,2000-09-13,Personal Use,No,Referral,4
+C0180,Individual,Female,UAE,Middle East,2001-07-06,Personal Use,Yes,Referral,4
+C0181,Individual,Male,Singapore,Asia,1967-01-09,Investment,No,Property Portal,5
+C0182,Individual,Male,UAE,Middle East,2001-11-28,Personal Use,Yes,Referral,3
+C0183,Individual,Male,UK,Europe,1984-12-15,Investment,No,Broker,4
+C0184,Individual,Female,India,Asia,1991-03-14,Personal Use,Yes,Website,4
+C0185,Individual,Male,Canada,North America,1984-04-23,Investment,No,Broker,4
+C0186,Corporate,Female,India,Asia,1970-06-26,Investment,Yes,Website,4
+C0187,Individual,Male,Australia,Oceania,1994-09-02,Personal Use,Yes,Website,3
+C0188,Individual,Male,USA,North America,1979-11-16,Investment,No,Broker,4
+C0189,Individual,Female,Qatar,Middle East,1998-03-09,Personal Use,Yes,Website,4
+C0190,Individual,Male,Singapore,Asia,1969-03-28,Investment,No,Broker,5
+C0191,Individual,Male,Saudi Arabia,Middle East,1990-01-06,Investment,No,Referral,3
+C0192,Individual,Female,USA,North America,1966-09-25,Investment,No,Property Portal,5
+C0193,Individual,Female,USA,North America,1981-04-01,Investment,No,Walk-in,4
+C0194,Corporate,Female,Canada,North America,1974-11-13,Investment,No,Referral,3
+C0195,Individual,Female,Saudi Arabia,Middle East,1963-02-28,Investment,No,Referral,5
+C0196,Corporate,Female,Qatar,Middle East,1977-04-10,Investment,Yes,Walk-in,4
+C0197,Individual,Male,India,Asia,1996-02-28,Personal Use,Yes,Social Media,3
+C0198,Individual,Female,India,Asia,1995-09-22,Personal Use,Yes,Website,3
+C0199,Corporate,Female,Qatar,Middle East,1975-08-15,Investment,No,Walk-in,5
+C0200,Individual,Female,UAE,Middle East,1989-02-19,Personal Use,Yes,Referral,3
+C0201,Corporate,Female,USA,North America,1974-03-29,Investment,Yes,Website,5
+C0202,Individual,Male,UAE,Middle East,1959-04-04,Investment,No,Walk-in,5
+C0203,Individual,Male,Qatar,Middle East,1979-08-09,Investment,No,Referral,4
+C0204,Corporate,Female,USA,North America,1961-11-05,Investment,No,Broker,3
+C0205,Individual,Female,Saudi Arabia,Middle East,1973-10-23,Investment,No,Broker,5
+C0206,Individual,Female,India,Asia,1999-09-13,Personal Use,Yes,Referral,2
+C0207,Individual,Female,India,Asia,1990-11-23,Personal Use,Yes,Walk-in,3
+C0208,Individual,Female,UK,Europe,1980-08-20,Investment,No,Social Media,4
+C0209,Individual,Female,UAE,Middle East,1971-08-08,Investment,No,Broker,5
+C0210,Individual,Male,USA,North America,1990-08-26,Investment,No,Referral,4
+C0211,Individual,Male,India,Asia,1998-09-06,Personal Use,Yes,Property Portal,3
+C0212,Corporate,Female,Qatar,Middle East,1975-12-04,Investment,No,Website,3
+C0213,Individual,Male,Singapore,Asia,1974-01-27,Investment,No,Referral,5
+C0214,Individual,Female,USA,North America,1976-12-18,Investment,No,Website,4
+C0215,Corporate,Male,India,Asia,1972-07-27,Investment,No,Broker,4
+C0216,Corporate,Male,Australia,Oceania,1985-12-07,Investment,No,Website,4
+C0217,Individual,Male,UAE,Middle East,1962-11-24,Investment,No,Social Media,5
+C0218,Individual,Female,USA,North America,1965-08-26,Investment,No,Property Portal,5
+C0219,Individual,Female,India,Asia,1999-04-12,Personal Use,Yes,Property Portal,3
+C0220,Individual,Male,India,Asia,1992-01-15,Personal Use,Yes,Broker,2
+C0221,Individual,Male,Canada,North America,1982-08-23,Investment,No,Referral,3
+C0222,Individual,Female,Saudi Arabia,Middle East,1965-12-06,Investment,No,Broker,5
+C0223,Individual,Female,UK,Europe,1990-08-01,Personal Use,Yes,Broker,2
+C0224,Individual,Female,UK,Europe,1975-04-09,Investment,No,Referral,4
+C0225,Individual,Female,Australia,Oceania,1992-12-16,Personal Use,Yes,Social Media,4
+C0226,Corporate,Male,UK,Europe,1985-12-31,Investment,No,Broker,4
+C0227,Individual,Male,UK,Europe,1980-08-06,Investment,No,Social Media,5
+C0228,Individual,Female,Singapore,Asia,1987-04-21,Investment,No,Website,3
+C0229,Individual,Male,UK,Europe,1971-08-13,Investment,No,Broker,3
+C0230,Individual,Female,USA,North America,1996-04-11,Personal Use,Yes,Referral,2
+C0231,Individual,Male,UAE,Middle East,1987-05-01,Investment,No,Property Portal,4
+C0232,Individual,Female,Canada,North America,1986-07-13,Investment,No,Property Portal,4
+C0233,Individual,Male,Singapore,Asia,1997-06-10,Personal Use,Yes,Referral,2
+C0234,Individual,Male,Singapore,Asia,1970-08-09,Investment,No,Broker,5
+C0235,Individual,Male,Canada,North America,1995-11-19,Personal Use,Yes,Referral,2
+C0236,Individual,Male,UAE,Middle East,1989-11-30,Investment,No,Property Portal,4
+C0237,Individual,Female,UK,Europe,1963-03-10,Investment,No,Broker,5
+C0238,Individual,Male,Canada,North America,2000-10-21,Personal Use,Yes,Social Media,3
+C0239,Individual,Male,UAE,Middle East,1964-01-10,Investment,No,Walk-in,5
+C0240,Individual,Male,Singapore,Asia,1983-09-02,Investment,No,Website,3
+C0241,Individual,Male,Qatar,Middle East,1999-04-23,Personal Use,No,Property Portal,4
+C0242,Individual,Male,India,Asia,2004-02-05,Personal Use,Yes,Website,3
+C0243,Individual,Female,India,Asia,1993-07-25,Personal Use,Yes,Referral,2
+C0244,Individual,Male,UK,Europe,1962-08-07,Investment,No,Walk-in,5
+C0245,Individual,Male,UK,Europe,1995-04-14,Personal Use,Yes,Referral,4
+C0246,Individual,Male,USA,North America,1981-09-21,Investment,No,Referral,3
+C0247,Individual,Female,UAE,Middle East,1972-09-15,Investment,No,Walk-in,5
+C0248,Individual,Female,Saudi Arabia,Middle East,1971-12-29,Investment,No,Property Portal,5
+C0249,Corporate,Male,India,Asia,1973-02-01,Investment,No,Property Portal,4
+C0250,Individual,Male,USA,North America,1971-10-20,Investment,No,Property Portal,4
+C0251,Individual,Male,UAE,Middle East,1990-09-25,Personal Use,Yes,Website,2
+C0252,Corporate,Male,India,Asia,1978-04-28,Investment,Yes,Website,4
+C0253,Individual,Male,Saudi Arabia,Middle East,1975-03-19,Investment,No,Property Portal,5
+C0254,Corporate,Male,UAE,Middle East,1979-10-16,Investment,No,Referral,5
+C0255,Individual,Female,India,Asia,1965-11-08,Investment,No,Property Portal,5
+C0256,Individual,Male,Qatar,Middle East,1965-12-28,Investment,No,Broker,5
+C0257,Individual,Male,India,Asia,1972-06-27,Investment,No,Website,5
+C0258,Corporate,Male,Germany,Europe,1978-12-31,Investment,No,Referral,3
+C0259,Corporate,Female,India,Asia,1977-07-10,Investment,Yes,Referral,4
+C0260,Individual,Male,UK,Europe,1971-09-29,Investment,No,Website,5
+C0261,Corporate,Male,India,Asia,1975-09-24,Investment,No,Broker,5
+C0262,Corporate,Male,Qatar,Middle East,1968-05-01,Investment,Yes,Referral,5
+C0263,Individual,Male,UK,Europe,1993-11-10,Personal Use,No,Walk-in,3
+C0264,Individual,Female,UAE,Middle East,1975-09-19,Investment,No,Property Portal,5
+C0265,Individual,Female,India,Asia,2003-11-20,Personal Use,No,Property Portal,3
+C0266,Individual,Female,USA,North America,1995-09-03,Personal Use,No,Website,3
+C0267,Individual,Male,USA,North America,1972-06-16,Investment,No,Walk-in,5
+C0268,Individual,Female,UK,Europe,1985-09-14,Investment,No,Broker,3
+C0269,Individual,Male,Saudi Arabia,Middle East,1976-05-31,Investment,No,Broker,5
+C0270,Individual,Male,Qatar,Middle East,1997-01-02,Investment,No,Referral,3
+C0271,Individual,Female,USA,North America,1977-08-25,Investment,No,Broker,4
+C0272,Corporate,Male,UAE,Middle East,1981-02-02,Investment,Yes,Broker,4
+C0273,Individual,Female,India,Asia,1974-11-15,Investment,No,Referral,5
+C0274,Individual,Female,India,Asia,1970-12-30,Investment,No,Website,5
+C0275,Corporate,Male,India,Asia,1972-08-24,Investment,No,Broker,4
+C0276,Individual,Female,India,Asia,1997-08-24,Personal Use,Yes,Referral,2
+C0277,Individual,Male,USA,North America,1970-11-09,Investment,No,Property Portal,5
+C0278,Individual,Female,UK,Europe,1961-06-18,Investment,No,Broker,5
+C0279,Individual,Male,Australia,Oceania,1971-12-05,Investment,No,Broker,3
+C0280,Individual,Female,USA,North America,1994-03-09,Personal Use,Yes,Social Media,4
+C0281,Individual,Female,UK,Europe,1974-06-19,Investment,No,Broker,4
+C0282,Individual,Female,UAE,Middle East,1987-09-20,Investment,No,Property Portal,3
+C0283,Individual,Male,Canada,North America,1965-05-16,Investment,No,Property Portal,4
+C0284,Individual,Male,UAE,Middle East,1968-09-09,Investment,No,Property Portal,5
+C0285,Individual,Male,India,Asia,2000-01-21,Personal Use,No,Website,3
+C0286,Individual,Male,UK,Europe,1980-04-23,Investment,Yes,Walk-in,3
+C0287,Individual,Female,USA,North America,1959-01-20,Investment,No,Social Media,5
+C0288,Individual,Male,Canada,North America,1994-08-07,Personal Use,Yes,Referral,4
+C0289,Individual,Male,UAE,Middle East,1971-03-08,Investment,No,Broker,5
+C0290,Corporate,Female,Singapore,Asia,1978-02-01,Investment,No,Property Portal,5
+C0291,Corporate,Female,Canada,North America,1973-09-13,Investment,No,Broker,3
+C0292,Individual,Male,UAE,Middle East,1974-03-18,Investment,No,Website,5
+C0293,Individual,Female,Australia,Oceania,1991-06-15,Personal Use,No,Property Portal,4
+C0294,Corporate,Male,India,Asia,1983-08-24,Investment,Yes,Broker,4
+C0295,Individual,Male,Qatar,Middle East,1983-04-07,Investment,No,Website,5
+C0296,Individual,Female,Saudi Arabia,Middle East,1992-04-10,Personal Use,Yes,Property Portal,2
+C0297,Individual,Female,Saudi Arabia,Middle East,1975-09-17,Investment,No,Broker,5
+C0298,Corporate,Male,India,Asia,1969-10-19,Investment,No,Website,4
+C0299,Individual,Female,UAE,Middle East,1966-09-14,Investment,No,Property Portal,5
+C0300,Corporate,Female,India,Asia,1966-08-12,Investment,Yes,Broker,3
+C0301,Individual,Male,USA,North America,1992-06-23,Personal Use,Yes,Broker,3
+C0302,Individual,Female,India,Asia,1974-11-11,Investment,No,Property Portal,5
+C0303,Individual,Male,Australia,Oceania,1986-05-25,Investment,Yes,Broker,3
+C0304,Individual,Female,UK,Europe,1968-03-11,Investment,No,Property Portal,5
+C0305,Individual,Female,USA,North America,1996-04-27,Personal Use,Yes,Referral,4
+C0306,Individual,Female,Australia,Oceania,1999-04-01,Personal Use,Yes,Website,2
+C0307,Individual,Male,Germany,Europe,1984-11-24,Investment,No,Broker,3
+C0308,Individual,Female,USA,North America,1997-07-01,Investment,No,Broker,3
+C0309,Individual,Male,India,Asia,1994-07-11,Personal Use,Yes,Website,3
+C0310,Individual,Female,UK,Europe,1971-02-17,Investment,No,Property Portal,5
+C0311,Individual,Female,India,Asia,1972-09-28,Investment,No,Walk-in,5
+C0312,Corporate,Male,Germany,Europe,1982-01-31,Investment,No,Property Portal,5
+C0313,Individual,Female,Qatar,Middle East,1977-10-24,Investment,No,Referral,3
+C0314,Individual,Male,Australia,Oceania,1979-12-04,Investment,No,Social Media,4
+C0315,Individual,Male,USA,North America,1962-06-22,Investment,No,Referral,5
+C0316,Individual,Female,USA,North America,1974-10-14,Investment,No,Referral,3
+C0317,Individual,Male,Canada,North America,1991-01-19,Investment,No,Social Media,3
+C0318,Individual,Female,UK,Europe,1982-09-28,Investment,No,Referral,4
+C0319,Individual,Female,Singapore,Asia,2000-08-05,Personal Use,Yes,Property Portal,3
+C0320,Corporate,Male,India,Asia,1970-09-20,Investment,Yes,Website,5
+C0321,Corporate,Male,USA,North America,1981-08-18,Investment,No,Property Portal,3
+C0322,Individual,Female,India,Asia,1990-03-12,Personal Use,Yes,Social Media,2
+C0323,Individual,Male,Germany,Europe,1982-02-22,Investment,Yes,Website,4
+C0324,Individual,Male,Australia,Oceania,1974-01-17,Investment,Yes,Website,3
+C0325,Individual,Male,Germany,Europe,1997-10-14,Personal Use,Yes,Walk-in,2
+C0326,Individual,Male,India,Asia,1989-09-24,Personal Use,No,Referral,2
+C0327,Individual,Female,UAE,Middle East,1954-12-09,Investment,No,Broker,5
+C0328,Individual,Male,India,Asia,1980-12-23,Investment,No,Website,5
+C0329,Individual,Male,Singapore,Asia,1981-09-24,Investment,No,Website,5
+C0330,Individual,Female,UAE,Middle East,1965-02-13,Investment,No,Property Portal,5
+C0331,Corporate,Male,USA,North America,1964-08-23,Investment,No,Social Media,3
+C0332,Individual,Male,Germany,Europe,1975-05-14,Investment,No,Social Media,3
+C0333,Individual,Female,USA,North America,1968-12-30,Investment,No,Property Portal,5
+C0334,Individual,Female,UK,Europe,1972-11-06,Investment,No,Website,5
+C0335,Corporate,Male,Australia,Oceania,1984-05-15,Investment,No,Social Media,4
+C0336,Corporate,Female,USA,North America,1981-01-13,Investment,Yes,Referral,4
+C0337,Individual,Male,India,Asia,2000-06-14,Personal Use,Yes,Walk-in,2
+C0338,Individual,Female,Qatar,Middle East,1974-03-23,Investment,No,Website,5
+C0339,Corporate,Female,Australia,Oceania,1969-04-27,Investment,No,Property Portal,4
+C0340,Individual,Male,UAE,Middle East,1967-03-31,Investment,No,Website,5
+C0341,Individual,Female,Saudi Arabia,Middle East,1973-09-10,Investment,No,Property Portal,5
+C0342,Individual,Male,India,Asia,1967-04-02,Investment,No,Website,5
+C0343,Individual,Female,UK,Europe,1994-03-26,Investment,No,Property Portal,3
+C0344,Individual,Female,UAE,Middle East,1994-08-19,Investment,No,Website,4
+C0345,Individual,Male,India,Asia,1994-09-12,Personal Use,Yes,Social Media,4
+C0346,Individual,Female,India,Asia,1999-04-15,Personal Use,No,Broker,3
+C0347,Corporate,Female,Saudi Arabia,Middle East,1967-11-24,Investment,No,Broker,4
+C0348,Individual,Female,UK,Europe,1992-12-19,Investment,No,Property Portal,4
+C0349,Corporate,Male,Saudi Arabia,Middle East,1980-11-25,Investment,No,Property Portal,5
+C0350,Individual,Female,India,Asia,1989-02-02,Personal Use,Yes,Social Media,2
+C0351,Corporate,Male,India,Asia,1988-08-27,Investment,Yes,Property Portal,5
+C0352,Individual,Female,USA,North America,1972-08-27,Investment,No,Property Portal,5
+C0353,Individual,Female,India,Asia,1993-06-07,Personal Use,Yes,Referral,2
+C0354,Corporate,Female,India,Asia,1977-01-15,Investment,No,Referral,5
+C0355,Individual,Male,Australia,Oceania,1980-03-15,Investment,No,Walk-in,4
+C0356,Individual,Female,India,Asia,1995-01-14,Personal Use,No,Referral,2
+C0357,Individual,Male,UAE,Middle East,1986-10-04,Investment,Yes,Referral,3
+C0358,Corporate,Female,UAE,Middle East,1967-12-20,Investment,No,Referral,3
+C0359,Individual,Male,UK,Europe,1969-05-26,Investment,No,Referral,5
+C0360,Individual,Female,India,Asia,1997-11-24,Personal Use,Yes,Social Media,3
+C0361,Individual,Male,Singapore,Asia,1981-12-15,Investment,No,Walk-in,3
+C0362,Individual,Female,India,Asia,1995-07-19,Personal Use,No,Social Media,3
+C0363,Individual,Male,Canada,North America,1988-08-11,Investment,No,Social Media,3
+C0364,Individual,Male,UK,Europe,1969-12-31,Investment,No,Broker,5
+C0365,Corporate,Female,Canada,North America,1972-12-01,Investment,Yes,Property Portal,4
+C0366,Individual,Male,India,Asia,1988-10-24,Personal Use,Yes,Broker,3
+C0367,Individual,Female,UK,Europe,1977-04-01,Investment,Yes,Referral,4
+C0368,Individual,Female,UK,Europe,1970-03-21,Investment,No,Broker,3
+C0369,Individual,Female,India,Asia,1995-09-30,Personal Use,No,Property Portal,3
+C0370,Individual,Male,Australia,Oceania,1995-01-05,Personal Use,Yes,Website,3
+C0371,Individual,Female,India,Asia,2002-11-07,Personal Use,Yes,Walk-in,4
+C0372,Individual,Male,UK,Europe,1974-06-07,Investment,No,Referral,5
+C0373,Corporate,Male,Canada,North America,1976-01-29,Investment,Yes,Walk-in,3
+C0374,Individual,Female,USA,North America,1975-10-17,Investment,Yes,Walk-in,4
+C0375,Individual,Male,India,Asia,1996-09-23,Personal Use,No,Website,3
+C0376,Individual,Female,Qatar,Middle East,1978-05-14,Investment,No,Walk-in,5
+C0377,Individual,Male,Saudi Arabia,Middle East,1970-10-14,Investment,No,Property Portal,5
+C0378,Corporate,Male,India,Asia,1973-08-31,Investment,No,Property Portal,4
+C0379,Individual,Male,Singapore,Asia,1973-07-29,Investment,No,Property Portal,5
+C0380,Individual,Male,UK,Europe,1990-01-12,Personal Use,Yes,Social Media,2
+C0381,Corporate,Female,Saudi Arabia,Middle East,1978-05-18,Investment,No,Website,5
+C0382,Corporate,Male,India,Asia,1979-12-28,Investment,No,Broker,3
+C0383,Individual,Male,USA,North America,1967-11-20,Investment,No,Property Portal,5
+C0384,Individual,Female,Qatar,Middle East,1979-12-04,Investment,No,Website,5
+C0385,Individual,Male,Germany,Europe,1985-04-05,Investment,Yes,Referral,3
+C0386,Individual,Female,UAE,Middle East,1965-08-16,Investment,No,Social Media,5
+C0387,Individual,Male,UK,Europe,1961-06-11,Investment,No,Referral,5
+C0388,Individual,Male,UAE,Middle East,1997-04-13,Personal Use,Yes,Referral,2
+C0389,Individual,Female,Saudi Arabia,Middle East,1975-12-22,Investment,No,Website,5
+C0390,Individual,Male,India,Asia,1996-01-10,Personal Use,Yes,Website,3
+C0391,Individual,Female,Canada,North America,1980-10-02,Investment,No,Website,4
+C0392,Individual,Female,India,Asia,1997-12-02,Personal Use,Yes,Property Portal,2
+C0393,Corporate,Male,Singapore,Asia,1982-06-21,Investment,Yes,Property Portal,5
+C0394,Individual,Female,Saudi Arabia,Middle East,1970-03-12,Investment,No,Broker,3
+C0395,Corporate,Female,Canada,North America,1979-08-28,Investment,No,Property Portal,4
+C0396,Corporate,Male,UAE,Middle East,1974-01-23,Investment,No,Referral,5
+C0397,Individual,Female,Saudi Arabia,Middle East,1969-07-02,Investment,No,Property Portal,4
+C0398,Individual,Female,India,Asia,1951-11-01,Investment,No,Property Portal,5
+C0399,Individual,Male,USA,North America,1978-07-06,Investment,No,Referral,4
+C0400,Individual,Male,India,Asia,2000-02-04,Personal Use,Yes,Property Portal,4
+C0401,Individual,Male,Singapore,Asia,1968-06-14,Investment,No,Property Portal,5
+C0402,Corporate,Male,UK,Europe,1977-04-06,Investment,Yes,Website,5
+C0403,Individual,Female,USA,North America,1994-03-03,Personal Use,Yes,Social Media,3
+C0404,Individual,Male,USA,North America,1971-04-19,Investment,No,Referral,5
+C0405,Individual,Male,UAE,Middle East,1978-11-22,Investment,No,Broker,5
+C0406,Individual,Male,UAE,Middle East,1993-09-14,Personal Use,Yes,Property Portal,3
+C0407,Individual,Male,Singapore,Asia,1987-03-29,Investment,No,Broker,3
+C0408,Corporate,Female,Singapore,Asia,1977-05-11,Investment,No,Broker,4
+C0409,Individual,Male,Qatar,Middle East,1967-06-29,Investment,No,Website,5
+C0410,Individual,Female,USA,North America,1984-06-07,Investment,Yes,Property Portal,3
+C0411,Individual,Female,UK,Europe,1995-08-09,Personal Use,Yes,Referral,3
+C0412,Corporate,Male,India,Asia,1980-09-27,Investment,No,Broker,5
+C0413,Individual,Male,USA,North America,1995-01-23,Personal Use,Yes,Referral,3
+C0414,Corporate,Female,UAE,Middle East,1981-08-12,Investment,No,Property Portal,4
+C0415,Individual,Male,India,Asia,2001-03-30,Personal Use,No,Referral,4
+C0416,Corporate,Male,Qatar,Middle East,1972-11-03,Investment,No,Walk-in,4
+C0417,Individual,Male,Qatar,Middle East,1966-11-24,Investment,No,Website,5
+C0418,Individual,Female,India,Asia,2000-10-27,Personal Use,No,Property Portal,4
+C0419,Individual,Male,India,Asia,1988-11-25,Personal Use,Yes,Property Portal,3
+C0420,Individual,Male,USA,North America,1979-03-02,Investment,No,Walk-in,3
+C0421,Corporate,Female,Germany,Europe,1979-10-29,Investment,Yes,Property Portal,5
+C0422,Individual,Male,USA,North America,1968-10-17,Investment,No,Referral,5
+C0423,Individual,Male,UAE,Middle East,1996-07-11,Personal Use,No,Social Media,3
+C0424,Individual,Male,UAE,Middle East,1973-11-18,Investment,No,Property Portal,5
+C0425,Individual,Female,Germany,Europe,1987-08-15,Investment,No,Website,4
+C0426,Individual,Female,Singapore,Asia,1959-09-06,Investment,No,Broker,5
+C0427,Individual,Male,Singapore,Asia,1977-12-07,Investment,No,Referral,3
+C0428,Individual,Female,UAE,Middle East,1983-03-16,Investment,No,Property Portal,4
+C0429,Corporate,Male,India,Asia,1977-03-01,Investment,No,Referral,4
+C0430,Individual,Female,UAE,Middle East,1987-09-24,Investment,Yes,Property Portal,3
+C0431,Individual,Male,India,Asia,1993-08-13,Personal Use,No,Referral,3
+C0432,Individual,Male,Australia,Oceania,1995-06-10,Personal Use,Yes,Referral,3
+C0433,Individual,Female,India,Asia,2004-10-14,Personal Use,Yes,Social Media,3
+C0434,Corporate,Male,UK,Europe,1982-05-23,Investment,Yes,Website,4
+C0435,Corporate,Male,India,Asia,1969-09-11,Investment,No,Broker,4
+C0436,Individual,Male,Saudi Arabia,Middle East,1970-12-28,Investment,No,Referral,4
+C0437,Corporate,Male,UAE,Middle East,1967-05-23,Investment,No,Referral,4
+C0438,Individual,Female,USA,North America,1986-11-02,Investment,No,Broker,3
+C0439,Individual,Female,Saudi Arabia,Middle East,1977-05-08,Investment,No,Referral,4
+C0440,Individual,Male,UAE,Middle East,1991-08-08,Personal Use,Yes,Broker,3
+C0441,Corporate,Male,India,Asia,1977-02-09,Investment,Yes,Broker,3
+C0442,Individual,Male,UK,Europe,1960-12-19,Investment,No,Referral,5
+C0443,Corporate,Male,Saudi Arabia,Middle East,1984-02-14,Investment,Yes,Walk-in,4
+C0444,Individual,Male,UK,Europe,1970-06-09,Investment,No,Walk-in,5
+C0445,Individual,Male,USA,North America,1995-09-25,Personal Use,Yes,Social Media,3
+C0446,Individual,Female,USA,North America,1971-02-02,Investment,No,Property Portal,5
+C0447,Corporate,Female,UK,Europe,1975-06-20,Investment,No,Broker,4
+C0448,Individual,Male,Singapore,Asia,1987-06-11,Investment,No,Referral,3
+C0449,Corporate,Male,UK,Europe,1967-04-25,Investment,Yes,Broker,5
+C0450,Individual,Male,India,Asia,1997-06-19,Personal Use,Yes,Broker,3
+C0451,Corporate,Female,India,Asia,1973-11-14,Investment,No,Social Media,4
+C0452,Corporate,Male,Qatar,Middle East,1966-08-14,Investment,No,Broker,4
+C0453,Individual,Male,India,Asia,1992-02-19,Personal Use,Yes,Property Portal,4
+C0454,Individual,Male,Saudi Arabia,Middle East,1977-05-02,Investment,No,Property Portal,5
+C0455,Individual,Female,Canada,North America,1998-06-06,Personal Use,No,Property Portal,3
+C0456,Individual,Female,Qatar,Middle East,1979-10-02,Investment,No,Broker,5
+C0457,Corporate,Female,Canada,North America,1974-04-03,Investment,Yes,Property Portal,5
+C0458,Individual,Male,India,Asia,1972-01-30,Investment,No,Website,5
+C0459,Individual,Male,Canada,North America,1990-03-13,Investment,No,Referral,4
+C0460,Individual,Male,India,Asia,1996-07-10,Personal Use,Yes,Property Portal,4
+C0461,Individual,Female,Singapore,Asia,1963-12-24,Investment,No,Property Portal,5
+C0462,Individual,Male,Singapore,Asia,1968-11-29,Investment,No,Broker,4
+C0463,Corporate,Female,Qatar,Middle East,1973-08-02,Investment,No,Referral,5
+C0464,Corporate,Male,USA,North America,1988-10-28,Investment,No,Referral,4
+C0465,Individual,Female,Germany,Europe,1969-05-01,Investment,No,Broker,3
+C0466,Individual,Female,India,Asia,1995-09-20,Personal Use,Yes,Referral,3
+C0467,Individual,Female,Singapore,Asia,1984-12-30,Investment,No,Referral,4
+C0468,Individual,Female,UK,Europe,1991-03-18,Investment,No,Referral,4
+C0469,Individual,Female,Germany,Europe,1984-01-06,Investment,No,Property Portal,4
+C0470,Individual,Female,USA,North America,1997-10-28,Personal Use,No,Property Portal,3
+C0471,Individual,Male,UK,Europe,1968-04-15,Investment,No,Property Portal,5
+C0472,Individual,Male,India,Asia,1995-12-30,Personal Use,Yes,Property Portal,3
+C0473,Individual,Female,UK,Europe,1977-11-23,Investment,No,Website,5
+C0474,Individual,Male,Qatar,Middle East,1997-01-14,Personal Use,Yes,Website,3
+C0475,Individual,Male,UAE,Middle East,1991-12-06,Investment,No,Broker,3
+C0476,Individual,Male,USA,North America,1978-04-11,Investment,No,Property Portal,3
+C0477,Individual,Male,India,Asia,1993-01-20,Personal Use,Yes,Referral,3
+C0478,Individual,Male,Qatar,Middle East,1995-09-26,Investment,No,Walk-in,3
+C0479,Individual,Male,India,Asia,2000-02-24,Personal Use,Yes,Property Portal,4
+C0480,Individual,Male,Singapore,Asia,1986-02-13,Investment,No,Website,4
+C0481,Corporate,Male,UAE,Middle East,1990-06-29,Investment,Yes,Broker,5
+C0482,Individual,Male,Germany,Europe,2001-10-23,Personal Use,Yes,Property Portal,4
+C0483,Corporate,Male,UK,Europe,1962-09-20,Investment,No,Referral,4
+C0484,Individual,Male,UK,Europe,1984-06-26,Investment,No,Property Portal,3
+C0485,Corporate,Female,Qatar,Middle East,1968-02-02,Investment,No,Broker,5
+C0486,Individual,Male,UAE,Middle East,1973-05-06,Investment,No,Property Portal,5
+C0487,Individual,Male,UAE,Middle East,1985-02-09,Personal Use,Yes,Website,3
+C0488,Individual,Female,UK,Europe,1978-09-27,Investment,No,Social Media,3
+C0489,Individual,Male,Saudi Arabia,Middle East,1965-08-14,Investment,No,Referral,5
+C0490,Individual,Male,UAE,Middle East,1968-04-05,Investment,No,Referral,5
+C0491,Individual,Male,Saudi Arabia,Middle East,1973-08-19,Investment,No,Website,5
+C0492,Individual,Female,UK,Europe,1973-11-23,Investment,No,Social Media,4
+C0493,Individual,Male,UAE,Middle East,1982-04-23,Investment,No,Website,3
+C0494,Individual,Female,Singapore,Asia,1998-04-16,Personal Use,Yes,Broker,4
+C0495,Individual,Female,India,Asia,1997-02-02,Personal Use,Yes,Broker,4
+C0496,Individual,Male,Qatar,Middle East,1962-07-10,Investment,No,Broker,5
+C0497,Individual,Male,India,Asia,1996-01-16,Personal Use,Yes,Social Media,3
+C0498,Individual,Female,USA,North America,1997-05-10,Personal Use,Yes,Property Portal,3
+C0499,Corporate,Female,India,Asia,1981-10-22,Investment,Yes,Property Portal,5
+C0500,Individual,Male,India,Asia,1999-03-19,Personal Use,Yes,Social Media,3
